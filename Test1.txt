@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Test1 updated
+>>>>>>> Feature
 =======
 Test1 updated
 >>>>>>> Feature
